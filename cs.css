@@ -1,0 +1,9 @@
+
+#box{
+    position:fixed;
+    left:20%;
+    top:20%;
+    width: 100px;
+    height:100px;
+    background: yellow;
+}
